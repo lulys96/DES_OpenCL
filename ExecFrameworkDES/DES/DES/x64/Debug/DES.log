@@ -1,0 +1,61 @@
+﻿cl : command line warning D9035: option 'Gm' has been deprecated and will be removed in a future release
+  host.cpp
+  utils.cpp
+  cl_version.h: CL_TARGET_OPENCL_VERSION is not defined. Defaulting to 220 (OpenCL 2.2)
+C:\Users\luiza\source\repos\DES\DesOutput\utils.cpp(176,23): warning C4996: 'clCreateCommandQueue': was declared deprecated
+C:\Users\luiza\source\repos\DES\DesOutput\utils.cpp(307,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\luiza\source\repos\DES\DesOutput\utils.cpp(331,11): warning C4477: 'printf' : format string '%s' requires an argument of type 'char *', but variadic argument 1 has type 'std::string'
+C:\Users\luiza\source\repos\DES\DesOutput\utils.cpp(387,9): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'cl_device_id'
+C:\Users\luiza\source\repos\DES\DesOutput\utils.cpp(387,9): warning C4313: 'printf': '%d' in format string conflicts with argument 1 of type 'cl_device_id'
+C:\Users\luiza\source\repos\DES\DesOutput\utils.cpp(464,23): warning C4996: 'clCreateCommandQueue': was declared deprecated
+C:\Users\luiza\source\repos\DES\DesOutput\utils.cpp(498,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\luiza\source\repos\DES\DesOutput\utils.cpp(518,21): warning C4018: '<': signed/unsigned mismatch
+  Translation.cpp
+  cl_version.h: CL_TARGET_OPENCL_VERSION is not defined. Defaulting to 220 (OpenCL 2.2)
+  opencl_arguments.cpp
+  cl_version.h: CL_TARGET_OPENCL_VERSION is not defined. Defaulting to 220 (OpenCL 2.2)
+  main.cpp
+  cl_version.h: CL_TARGET_OPENCL_VERSION is not defined. Defaulting to 220 (OpenCL 2.2)
+C:\Users\luiza\source\repos\DES\DesOutput\main.cpp(3662,7): warning C4834: discarding return value of function with 'nodiscard' attribute
+C:\Users\luiza\source\repos\DES\DesOutput\main.cpp(3663,7): warning C4834: discarding return value of function with 'nodiscard' attribute
+C:\Users\luiza\source\repos\DES\DesOutput\main.cpp(3664,7): warning C4834: discarding return value of function with 'nodiscard' attribute
+C:\Users\luiza\source\repos\DES\DesOutput\main.cpp(3665,7): warning C4834: discarding return value of function with 'nodiscard' attribute
+C:\Users\luiza\source\repos\DES\DesOutput\main.cpp(3666,7): warning C4834: discarding return value of function with 'nodiscard' attribute
+C:\Users\luiza\source\repos\DES\DesOutput\Port.hpp(88,10): warning C4477: 'printf' : format string '%s' requires an argument of type 'char *', but variadic argument 1 has type 'std::string'
+C:\Users\luiza\source\repos\DES\DesOutput\Port.hpp(83): message : while compiling class template member function 'cl_mem *Port<bool,100000>::get_read_buffer(const int,opencl_arguments &)'
+C:\Users\luiza\source\repos\DES\DesOutput\connector.hpp(32): message : see reference to function template instantiation 'cl_mem *Port<bool,100000>::get_read_buffer(const int,opencl_arguments &)' being compiled
+C:\Users\luiza\source\repos\DES\DesOutput\connector.hpp(28): message : see reference to class template instantiation 'Port<bool,100000>' being compiled
+C:\Users\luiza\source\repos\DES\DesOutput\Port.hpp(94,10): warning C4477: 'printf' : format string '%s' requires an argument of type 'char *', but variadic argument 1 has type 'std::string'
+C:\Users\luiza\source\repos\DES\DesOutput\Port.hpp(100,10): warning C4477: 'printf' : format string '%s' requires an argument of type 'char *', but variadic argument 1 has type 'std::string'
+C:\Users\luiza\source\repos\DES\DesOutput\Port.hpp(117,10): warning C4477: 'printf' : format string '%s' requires an argument of type 'char *', but variadic argument 1 has type 'std::string'
+C:\Users\luiza\source\repos\DES\DesOutput\Port.hpp(129,10): warning C4477: 'printf' : format string '%s' requires an argument of type 'char *', but variadic argument 1 has type 'std::string'
+C:\Users\luiza\source\repos\DES\DesOutput\Port.hpp(124): message : while compiling class template member function 'cl_mem *Port<bool,100000>::get_write_buffer(const int,opencl_arguments &)'
+C:\Users\luiza\source\repos\DES\DesOutput\connector.hpp(40): message : see reference to function template instantiation 'cl_mem *Port<bool,100000>::get_write_buffer(const int,opencl_arguments &)' being compiled
+C:\Users\luiza\source\repos\DES\DesOutput\Port.hpp(143,10): warning C4477: 'printf' : format string '%s' requires an argument of type 'char *', but variadic argument 1 has type 'std::string'
+C:\Users\luiza\source\repos\DES\DesOutput\Port.hpp(137): message : while compiling class template member function 'void Port<bool,100000>::opencl_read_done(void)'
+C:\Users\luiza\source\repos\DES\DesOutput\connector.hpp(56): message : see reference to function template instantiation 'void Port<bool,100000>::opencl_read_done(void)' being compiled
+C:\Users\luiza\source\repos\DES\DesOutput\Port.hpp(156,10): warning C4477: 'printf' : format string '%s' requires an argument of type 'char *', but variadic argument 1 has type 'std::string'
+C:\Users\luiza\source\repos\DES\DesOutput\Port.hpp(150): message : while compiling class template member function 'void Port<bool,100000>::opencl_write_done(opencl_arguments &)'
+C:\Users\luiza\source\repos\DES\DesOutput\connector.hpp(64): message : see reference to function template instantiation 'void Port<bool,100000>::opencl_write_done(opencl_arguments &)' being compiled
+C:\Users\luiza\source\repos\DES\DesOutput\Port.hpp(162,10): warning C4477: 'printf' : format string '%s' requires an argument of type 'char *', but variadic argument 1 has type 'std::string'
+C:\Users\luiza\source\repos\DES\DesOutput\Port.hpp(179,10): warning C4477: 'printf' : format string '%s' requires an argument of type 'char *', but variadic argument 1 has type 'std::string'
+  Running Code Analysis for C/C++...
+  Generating Code...
+  DES.vcxproj -> C:\Users\luiza\source\repos\DES\ExecFrameworkDES\DES\x64\Debug\DES.exe
+C:\Users\luiza\source\repos\DES\DesOutput\Port.hpp(36): warning C26495: Variable 'Port<bool,100000>::write_buffer' is uninitialized. Always initialize a member variable (type.6).
+C:\Users\luiza\source\repos\DES\DesOutput\Port.hpp(88): warning C6284: Object passed as _Param_(2) when a string is required in call to 'printf' Actual type: 'class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >'.
+C:\Users\luiza\source\repos\DES\DesOutput\Port.hpp(94): warning C6284: Object passed as _Param_(2) when a string is required in call to 'printf' Actual type: 'class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >'.
+C:\Users\luiza\source\repos\DES\DesOutput\Port.hpp(100): warning C6284: Object passed as _Param_(2) when a string is required in call to 'printf' Actual type: 'class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >'.
+C:\Users\luiza\source\repos\DES\DesOutput\Port.hpp(117): warning C6284: Object passed as _Param_(2) when a string is required in call to 'printf' Actual type: 'class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >'.
+C:\Users\luiza\source\repos\DES\DesOutput\Port.hpp(129): warning C6284: Object passed as _Param_(2) when a string is required in call to 'printf' Actual type: 'class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >'.
+C:\Users\luiza\source\repos\DES\DesOutput\Port.hpp(143): warning C6284: Object passed as _Param_(2) when a string is required in call to 'printf' Actual type: 'class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >'.
+C:\Users\luiza\source\repos\DES\DesOutput\Port.hpp(156): warning C6284: Object passed as _Param_(2) when a string is required in call to 'printf' Actual type: 'class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >'.
+C:\Users\luiza\source\repos\DES\DesOutput\Port.hpp(162): warning C6284: Object passed as _Param_(2) when a string is required in call to 'printf' Actual type: 'class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >'.
+C:\Users\luiza\source\repos\DES\DesOutput\Port.hpp(179): warning C6284: Object passed as _Param_(2) when a string is required in call to 'printf' Actual type: 'class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >'.
+C:\Users\luiza\source\repos\DES\DesOutput\opencl_arguments.cpp(5): warning C26495: Variable 'opencl_arguments::globalWorkSize' is uninitialized. Always initialize a member variable (type.6).
+C:\Users\luiza\source\repos\DES\DesOutput\utils.cpp(70): warning C6054: String 'platformName' might not be zero-terminated.
+C:\Users\luiza\source\repos\DES\DesOutput\utils.cpp(84): warning C26816: The pointer points to memory allocated on the stack.
+C:\Users\luiza\source\repos\DES\DesOutput\utils.cpp(331): warning C6284: Object passed as _Param_(2) when a string is required in call to 'printf' Actual type: 'class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >'.
+C:\Users\luiza\source\repos\DES\DesOutput\utils.cpp(387): warning C6273: Non-integer passed as _Param_(2) when an integer is required in call to 'printf' Actual type: 'struct _cl_device_id *':  if a pointer value is being passed, %p should be used.
+C:\Users\luiza\source\repos\DES\DesOutput\utils.cpp(434): warning C6011: Dereferencing NULL pointer 'deviceid'. 
+C:\Users\luiza\source\repos\DES\DesOutput\utils.cpp(519): warning C26816: The pointer points to memory allocated on the stack.

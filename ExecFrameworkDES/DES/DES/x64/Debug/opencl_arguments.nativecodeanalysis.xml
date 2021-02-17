@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DEFECTS>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\luiza\source\repos\DES\DesOutput\</FILEPATH>
+      <FILENAME>opencl_arguments.cpp</FILENAME>
+      <LINE>5</LINE>
+      <COLUMN>18</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>Variable 'opencl_arguments::globalWorkSize' is uninitialized. Always initialize a member variable (type.6).</DESCRIPTION>
+    <FUNCTION>opencl_arguments::{ctor}</FUNCTION>
+    <DECORATED>??0opencl_arguments@@QEAA@XZ</DECORATED>
+    <FUNCLINE>5</FUNCLINE>
+    <ADDITIONALINFO>
+      <targetSymbol>opencl_arguments::globalWorkSize</targetSymbol>
+    </ADDITIONALINFO>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\luiza\source\repos\DES\DesOutput\</FILEPATH>
+      <FILENAME>opencl_arguments.cpp</FILENAME>
+      <LINE>5</LINE>
+      <COLUMN>18</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>Variable 'opencl_arguments::localWorkSize' is uninitialized. Always initialize a member variable (type.6).</DESCRIPTION>
+    <FUNCTION>opencl_arguments::{ctor}</FUNCTION>
+    <DECORATED>??0opencl_arguments@@QEAA@XZ</DECORATED>
+    <FUNCLINE>5</FUNCLINE>
+    <ADDITIONALINFO>
+      <targetSymbol>opencl_arguments::localWorkSize</targetSymbol>
+    </ADDITIONALINFO>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\luiza\source\repos\DES\DesOutput\</FILEPATH>
+      <FILENAME>opencl_arguments.cpp</FILENAME>
+      <LINE>5</LINE>
+      <COLUMN>18</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>Variable 'opencl_arguments::work_Dim' is uninitialized. Always initialize a member variable (type.6).</DESCRIPTION>
+    <FUNCTION>opencl_arguments::{ctor}</FUNCTION>
+    <DECORATED>??0opencl_arguments@@QEAA@XZ</DECORATED>
+    <FUNCLINE>5</FUNCLINE>
+    <ADDITIONALINFO>
+      <targetSymbol>opencl_arguments::work_Dim</targetSymbol>
+    </ADDITIONALINFO>
+    <PATH></PATH>
+  </DEFECT>
+</DEFECTS>

@@ -1,0 +1,4 @@
+C:\Users\Levi\Documents\Visual Studio 2019\ProjectsVS19\DataEncryptionStandard\DesExecutable\DES\x64\Debug\DES.exe.lastcodeanalysissucceeded
+C:\Users\Levi\Documents\Visual Studio 2019\ProjectsVS19\DataEncryptionStandard\DesExecutable\DES\DES\x64\Debug\NativeCodeAnalysis.read.1.tlog
+C:\Users\luiza\source\repos\DES\ExecFrameworkDES\DES\x64\Debug\DES.exe.lastcodeanalysissucceeded
+C:\Users\luiza\source\repos\DES\ExecFrameworkDES\DES\DES\x64\Debug\NativeCodeAnalysis.read.1.tlog

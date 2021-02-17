@@ -1,0 +1,18 @@
+^..\..\..\DesOutput\connector.cl
+C:\Users\Levi\Documents\Visual Studio 2019\ProjectsVS19\DataEncryptionStandard\DesExecutable\DES\DES\connector.out
+^..\..\..\DesOutput\extend.cl
+C:\Users\Levi\Documents\Visual Studio 2019\ProjectsVS19\DataEncryptionStandard\DesExecutable\DES\DES\extend.out
+^..\..\..\DesOutput\pc1.cl
+C:\Users\Levi\Documents\Visual Studio 2019\ProjectsVS19\DataEncryptionStandard\DesExecutable\DES\DES\pc1.out
+^..\..\..\DesOutput\pc2.cl
+C:\Users\Levi\Documents\Visual Studio 2019\ProjectsVS19\DataEncryptionStandard\DesExecutable\DES\DES\pc2.out
+^..\..\..\DesOutput\permutation.cl
+C:\Users\Levi\Documents\Visual Studio 2019\ProjectsVS19\DataEncryptionStandard\DesExecutable\DES\DES\permutation.out
+^..\..\..\DesOutput\shift_RL1.cl
+C:\Users\Levi\Documents\Visual Studio 2019\ProjectsVS19\DataEncryptionStandard\DesExecutable\DES\DES\shift_RL1.out
+^..\..\..\DesOutput\shift_RL2.cl
+C:\Users\Levi\Documents\Visual Studio 2019\ProjectsVS19\DataEncryptionStandard\DesExecutable\DES\DES\shift_RL2.out
+^..\..\..\DesOutput\xor32bits.cl
+C:\Users\Levi\Documents\Visual Studio 2019\ProjectsVS19\DataEncryptionStandard\DesExecutable\DES\DES\xor32bits.out
+^..\..\..\DesOutput\xor48bits.cl
+C:\Users\Levi\Documents\Visual Studio 2019\ProjectsVS19\DataEncryptionStandard\DesExecutable\DES\DES\xor48bits.out

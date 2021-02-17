@@ -1,0 +1,73 @@
+Using build options:  -I "C:\Users\Levi\Documents\Visual Studio 2019\ProjectsVS19\DataEncryptionStandard\DesOutput"
+Setting target instruction set architecture to: Default (Intel(R) Advanced Vector Extensions 2 (Intel(R) AVX2))
+Platform name: Intel(R) OpenCL
+Device name: Intel(R) Core(TM) i7-4600U CPU @ 2.10GHz
+Device version: OpenCL 1.2 (Build 10094)
+Device vendor: Intel(R) Corporation
+Device profile: FULL_PROFILE
+Compilation started
+C:\Users\Levi\Documents\Visual Studio 2019\ProjectsVS19\DataEncryptionStandard\DesOutput\s8.cl(14,3) :error CL : implicit declaration of function 'elsif' is invalid in OpenCL
+C:\Users\Levi\Documents\Visual Studio 2019\ProjectsVS19\DataEncryptionStandard\DesOutput\s8.cl(14,99) :error CL : expression is not assignable
+C:\Users\Levi\Documents\Visual Studio 2019\ProjectsVS19\DataEncryptionStandard\DesOutput\s8.cl(18,99) :error CL : expression is not assignable
+C:\Users\Levi\Documents\Visual Studio 2019\ProjectsVS19\DataEncryptionStandard\DesOutput\s8.cl(22,98) :error CL : expression is not assignable
+C:\Users\Levi\Documents\Visual Studio 2019\ProjectsVS19\DataEncryptionStandard\DesOutput\s8.cl(26,99) :error CL : expression is not assignable
+C:\Users\Levi\Documents\Visual Studio 2019\ProjectsVS19\DataEncryptionStandard\DesOutput\s8.cl(30,98) :error CL : expression is not assignable
+C:\Users\Levi\Documents\Visual Studio 2019\ProjectsVS19\DataEncryptionStandard\DesOutput\s8.cl(34,98) :error CL : expression is not assignable
+C:\Users\Levi\Documents\Visual Studio 2019\ProjectsVS19\DataEncryptionStandard\DesOutput\s8.cl(38,97) :error CL : expression is not assignable
+C:\Users\Levi\Documents\Visual Studio 2019\ProjectsVS19\DataEncryptionStandard\DesOutput\s8.cl(42,99) :error CL : expression is not assignable
+C:\Users\Levi\Documents\Visual Studio 2019\ProjectsVS19\DataEncryptionStandard\DesOutput\s8.cl(46,98) :error CL : expression is not assignable
+C:\Users\Levi\Documents\Visual Studio 2019\ProjectsVS19\DataEncryptionStandard\DesOutput\s8.cl(50,98) :error CL : expression is not assignable
+C:\Users\Levi\Documents\Visual Studio 2019\ProjectsVS19\DataEncryptionStandard\DesOutput\s8.cl(54,97) :error CL : expression is not assignable
+C:\Users\Levi\Documents\Visual Studio 2019\ProjectsVS19\DataEncryptionStandard\DesOutput\s8.cl(58,98) :error CL : expression is not assignable
+C:\Users\Levi\Documents\Visual Studio 2019\ProjectsVS19\DataEncryptionStandard\DesOutput\s8.cl(62,97) :error CL : expression is not assignable
+C:\Users\Levi\Documents\Visual Studio 2019\ProjectsVS19\DataEncryptionStandard\DesOutput\s8.cl(66,97) :error CL : expression is not assignable
+C:\Users\Levi\Documents\Visual Studio 2019\ProjectsVS19\DataEncryptionStandard\DesOutput\s8.cl(70,96) :error CL : expression is not assignable
+C:\Users\Levi\Documents\Visual Studio 2019\ProjectsVS19\DataEncryptionStandard\DesOutput\s8.cl(80,99) :error CL : expression is not assignable
+C:\Users\Levi\Documents\Visual Studio 2019\ProjectsVS19\DataEncryptionStandard\DesOutput\s8.cl(84,99) :error CL : expression is not assignable
+C:\Users\Levi\Documents\Visual Studio 2019\ProjectsVS19\DataEncryptionStandard\DesOutput\s8.cl(88,98) :error CL : expression is not assignable
+C:\Users\Levi\Documents\Visual Studio 2019\ProjectsVS19\DataEncryptionStandard\DesOutput\s8.cl(92,99) :error CL : expression is not assignable
+C:\Users\Levi\Documents\Visual Studio 2019\ProjectsVS19\DataEncryptionStandard\DesOutput\s8.cl(96,98) :error CL : expression is not assignable
+C:\Users\Levi\Documents\Visual Studio 2019\ProjectsVS19\DataEncryptionStandard\DesOutput\s8.cl(100,98) :error CL : expression is not assignable
+C:\Users\Levi\Documents\Visual Studio 2019\ProjectsVS19\DataEncryptionStandard\DesOutput\s8.cl(104,97) :error CL : expression is not assignable
+C:\Users\Levi\Documents\Visual Studio 2019\ProjectsVS19\DataEncryptionStandard\DesOutput\s8.cl(108,99) :error CL : expression is not assignable
+C:\Users\Levi\Documents\Visual Studio 2019\ProjectsVS19\DataEncryptionStandard\DesOutput\s8.cl(112,98) :error CL : expression is not assignable
+C:\Users\Levi\Documents\Visual Studio 2019\ProjectsVS19\DataEncryptionStandard\DesOutput\s8.cl(116,98) :error CL : expression is not assignable
+C:\Users\Levi\Documents\Visual Studio 2019\ProjectsVS19\DataEncryptionStandard\DesOutput\s8.cl(120,97) :error CL : expression is not assignable
+C:\Users\Levi\Documents\Visual Studio 2019\ProjectsVS19\DataEncryptionStandard\DesOutput\s8.cl(124,98) :error CL : expression is not assignable
+C:\Users\Levi\Documents\Visual Studio 2019\ProjectsVS19\DataEncryptionStandard\DesOutput\s8.cl(128,97) :error CL : expression is not assignable
+C:\Users\Levi\Documents\Visual Studio 2019\ProjectsVS19\DataEncryptionStandard\DesOutput\s8.cl(132,97) :error CL : expression is not assignable
+C:\Users\Levi\Documents\Visual Studio 2019\ProjectsVS19\DataEncryptionStandard\DesOutput\s8.cl(136,96) :error CL : expression is not assignable
+C:\Users\Levi\Documents\Visual Studio 2019\ProjectsVS19\DataEncryptionStandard\DesOutput\s8.cl(146,98) :error CL : expression is not assignable
+C:\Users\Levi\Documents\Visual Studio 2019\ProjectsVS19\DataEncryptionStandard\DesOutput\s8.cl(150,98) :error CL : expression is not assignable
+C:\Users\Levi\Documents\Visual Studio 2019\ProjectsVS19\DataEncryptionStandard\DesOutput\s8.cl(154,97) :error CL : expression is not assignable
+C:\Users\Levi\Documents\Visual Studio 2019\ProjectsVS19\DataEncryptionStandard\DesOutput\s8.cl(158,98) :error CL : expression is not assignable
+C:\Users\Levi\Documents\Visual Studio 2019\ProjectsVS19\DataEncryptionStandard\DesOutput\s8.cl(162,97) :error CL : expression is not assignable
+C:\Users\Levi\Documents\Visual Studio 2019\ProjectsVS19\DataEncryptionStandard\DesOutput\s8.cl(166,97) :error CL : expression is not assignable
+C:\Users\Levi\Documents\Visual Studio 2019\ProjectsVS19\DataEncryptionStandard\DesOutput\s8.cl(170,96) :error CL : expression is not assignable
+C:\Users\Levi\Documents\Visual Studio 2019\ProjectsVS19\DataEncryptionStandard\DesOutput\s8.cl(174,98) :error CL : expression is not assignable
+C:\Users\Levi\Documents\Visual Studio 2019\ProjectsVS19\DataEncryptionStandard\DesOutput\s8.cl(178,97) :error CL : expression is not assignable
+C:\Users\Levi\Documents\Visual Studio 2019\ProjectsVS19\DataEncryptionStandard\DesOutput\s8.cl(182,97) :error CL : expression is not assignable
+C:\Users\Levi\Documents\Visual Studio 2019\ProjectsVS19\DataEncryptionStandard\DesOutput\s8.cl(186,96) :error CL : expression is not assignable
+C:\Users\Levi\Documents\Visual Studio 2019\ProjectsVS19\DataEncryptionStandard\DesOutput\s8.cl(190,97) :error CL : expression is not assignable
+C:\Users\Levi\Documents\Visual Studio 2019\ProjectsVS19\DataEncryptionStandard\DesOutput\s8.cl(194,96) :error CL : expression is not assignable
+C:\Users\Levi\Documents\Visual Studio 2019\ProjectsVS19\DataEncryptionStandard\DesOutput\s8.cl(198,96) :error CL : expression is not assignable
+C:\Users\Levi\Documents\Visual Studio 2019\ProjectsVS19\DataEncryptionStandard\DesOutput\s8.cl(202,95) :error CL : expression is not assignable
+C:\Users\Levi\Documents\Visual Studio 2019\ProjectsVS19\DataEncryptionStandard\DesOutput\s8.cl(212,98) :error CL : expression is not assignable
+C:\Users\Levi\Documents\Visual Studio 2019\ProjectsVS19\DataEncryptionStandard\DesOutput\s8.cl(216,98) :error CL : expression is not assignable
+C:\Users\Levi\Documents\Visual Studio 2019\ProjectsVS19\DataEncryptionStandard\DesOutput\s8.cl(220,97) :error CL : expression is not assignable
+C:\Users\Levi\Documents\Visual Studio 2019\ProjectsVS19\DataEncryptionStandard\DesOutput\s8.cl(224,98) :error CL : expression is not assignable
+C:\Users\Levi\Documents\Visual Studio 2019\ProjectsVS19\DataEncryptionStandard\DesOutput\s8.cl(228,97) :error CL : expression is not assignable
+C:\Users\Levi\Documents\Visual Studio 2019\ProjectsVS19\DataEncryptionStandard\DesOutput\s8.cl(232,97) :error CL : expression is not assignable
+C:\Users\Levi\Documents\Visual Studio 2019\ProjectsVS19\DataEncryptionStandard\DesOutput\s8.cl(236,96) :error CL : expression is not assignable
+C:\Users\Levi\Documents\Visual Studio 2019\ProjectsVS19\DataEncryptionStandard\DesOutput\s8.cl(240,98) :error CL : expression is not assignable
+C:\Users\Levi\Documents\Visual Studio 2019\ProjectsVS19\DataEncryptionStandard\DesOutput\s8.cl(244,97) :error CL : expression is not assignable
+C:\Users\Levi\Documents\Visual Studio 2019\ProjectsVS19\DataEncryptionStandard\DesOutput\s8.cl(248,97) :error CL : expression is not assignable
+C:\Users\Levi\Documents\Visual Studio 2019\ProjectsVS19\DataEncryptionStandard\DesOutput\s8.cl(252,96) :error CL : expression is not assignable
+C:\Users\Levi\Documents\Visual Studio 2019\ProjectsVS19\DataEncryptionStandard\DesOutput\s8.cl(256,97) :error CL : expression is not assignable
+C:\Users\Levi\Documents\Visual Studio 2019\ProjectsVS19\DataEncryptionStandard\DesOutput\s8.cl(260,96) :error CL : expression is not assignable
+C:\Users\Levi\Documents\Visual Studio 2019\ProjectsVS19\DataEncryptionStandard\DesOutput\s8.cl(264,96) :error CL : expression is not assignable
+C:\Users\Levi\Documents\Visual Studio 2019\ProjectsVS19\DataEncryptionStandard\DesOutput\s8.cl(268,95) :error CL : expression is not assignable
+Compilation failed
+
+Failed to build program...: -11 (CL_BUILD_PROGRAM_FAILURE)
+Build failed!
